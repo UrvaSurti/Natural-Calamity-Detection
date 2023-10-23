@@ -274,7 +274,7 @@ def send_email1():
     f = open("result.txt", "r")
     result_calamity=str(f.read())
     username = 'urva.surti@gmail.com'
-    password = 'Uhs18hds01vhs00$'
+    password = ''
     sender = 'urva.surti@gmail.com'
     targets = ['urva.surti@gmail.com']
 
